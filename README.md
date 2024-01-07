@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=297&color=0:5c258d,100:0072ff&text=Nicolas&section=header&fontColor=ffffff&fontSize=80&desc=Alternant%20développeur%20web&fontAlign=50&animation=fadeIn&reversal=false&fontAlignY=40&descAlign=50&descAlignY=60&descSize=22&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:5c258d,100:0072ff&text=Nicolas&section=header&fontColor=ffffff&fontSize=80&desc=Alternant%20développeur%20web&fontAlign=50&animation=fadeIn&reversal=false&fontAlignY=40&descAlign=50&descAlignY=60&descSize=22&textBg=false" />
 
 <!-- ABOUT START ############################################################################### -->
 <h1 align="center">🌌 A propos de moi</h2>	
