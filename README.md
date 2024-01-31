@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:5c258d,100:0072ff&text=Nicolas&section=header&fontColor=ffffff&fontSize=80&desc=Développeur%20web%20et%20web%20mobile&fontAlign=50&animation=fadeIn&reversal=false&fontAlignY=35&descAlign=50&descAlignY=55&descSize=22&textBg=false" />
 
-<!-- ABOUT START ############################################################################### -->
-<h2 align="center">🌌 A propos de moi</h2>	
-<br>
 <div align="center">
   <a href="mailto:nicolas.berrier360@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,11 +19,6 @@
 
 <br />
 
-<p align="left">
-  Passionné depuis toujours par le numérique et ayant obtenu un diplôme de niveau bac+2 en développement web, j'approfondis actuellement mes connaissances en JavaScript et Unity. <br>
-  Dans le même temps, je recherche une entreprise pour réaliser une alternance dans le but de valider un bachelor en développement web  :ok_hand:
-</p> <br>
-<!-- ABOUT END ############################################################################### -->
 <!-- SKILL START ############################################################################### -->
 <h2 align="center">:cyclone: Langages / Framework / Outils :cyclone:</h2>
  <br/> 
