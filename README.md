@@ -24,8 +24,8 @@
  <br/> 
 <div align="center">
   <a href="https://skillicons.dev/">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,symfony,php,mysql" /><br>
-      <img src="https://skillicons.dev/icons?i=unity,cs,figma,github,ableton" /> <br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,symfony,php,mysql" /><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap,unity,cs,figma,github,ableton" /> <br>
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
   </a>
 </div> 
